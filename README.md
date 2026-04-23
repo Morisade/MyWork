@@ -1,2 +1,4 @@
 # MyWork
-This repository show all my practice work and project. Kindly take a look. cheers
+This is my  Portfolio Websites. 
+Kindly take a look. 
+cheers
