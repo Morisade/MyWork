@@ -1,7 +1,10 @@
-# MyWork
+---
+layout: home
+title: My Work
+---
 
-<img src="/assets/images/profile_pic.png" width="150"/>
+<img src="/assets/images/profile_pic.png" width="150" style="border-radius:50%;">
 
-This is my  Portfolio Websites. 
-Kindly take a look!
-cheers
+## Welcome to my portfolio
+
+This is my work and projects page.
