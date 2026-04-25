@@ -1,9 +1,5 @@
----
-layout: home
-title: My Work
----
-
-![Profile](assets/images/profile_pic.png)
-## Welcome to my portfolio
-
-This is my work and projects page.
+# MyWork
+![Profile](/assets/images/profile_pic.png)
+This is my Portfolio Websites. 
+Kindly take a look. 
+cheers
